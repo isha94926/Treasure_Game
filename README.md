@@ -1,2 +1,4 @@
 # Treasure_Game
-This game is created using Java Programming.
+"Welcome to treasure Island
+Your Mission is to find the treasure.
+This game is created by using Java Programming.
